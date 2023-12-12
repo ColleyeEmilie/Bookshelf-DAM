@@ -1,6 +1,4 @@
 import 'package:bookshelf/style/spacings.dart';
-import 'package:bookshelf/widgets/form/text_input.dart';
-import 'package:bookshelf/widgets/main_button.dart';
 import 'package:bookshelf/widgets/listes/test_list.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';

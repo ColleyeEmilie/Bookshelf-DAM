@@ -45,7 +45,7 @@ class NewListScreen extends StatelessWidget {
                           SizedBox(
                             height: 240,
                             width: MediaQuery.of(context).size.width,
-                            child: GetLists(),
+                            child: const GetLists(),
                           ),
                           TextInput(
                               prefixIcon: Icons.add,
@@ -83,7 +83,7 @@ class NewListScreen extends StatelessWidget {
                                       }
                                     }
                                   } catch (e) {
-                                    print(e);
+                                    debugPrint('Error');
                                   }
                                 }
                               })

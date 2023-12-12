@@ -2,9 +2,7 @@
 import 'package:bookshelf/screens/planning_screen.dart';
 import 'package:bookshelf/style/colors.dart';
 import 'package:bookshelf/widgets/background.dart';
-import 'package:bookshelf/widgets/books/all_books.dart';
 import 'package:bookshelf/widgets/catgeory_button.dart';
-import 'package:bookshelf/widgets/user/get_username.dart';
 import 'package:bookshelf/widgets/books/recent_releases.dart';
 import 'package:flutter/material.dart';
 import '../style/spacings.dart';

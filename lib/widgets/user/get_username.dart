@@ -36,7 +36,7 @@ class _GetUsernameState extends State<GetUsername> {
         return '';
       }
     } catch (e) {
-      print(e);
+      debugPrint('error');
       return '';
     }
   }

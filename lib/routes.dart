@@ -5,7 +5,6 @@ import 'package:bookshelf/screens/new_list_screen.dart';
 import 'package:bookshelf/screens/planning_screen.dart';
 import 'package:bookshelf/screens/profil_screen.dart';
 import 'package:bookshelf/screens/scan_screen.dart';
-import 'package:bookshelf/widgets/books/all_books.dart';
 import 'screens/register_screen.dart';
 import 'screens/home_screen.dart';
 import 'screens/welcome_screen.dart';

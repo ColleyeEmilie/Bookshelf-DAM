@@ -26,7 +26,7 @@ class GetLists extends StatelessWidget {
           final List<String> listIds = [];
 
           querySnapshot.docs.forEach((doc) {
-            Object? data = doc.data();
+            //Object? data = doc.data();
             String id = doc.id;
             //listData.add(data.toString());
             listIds.add(id);

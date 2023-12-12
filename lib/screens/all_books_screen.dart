@@ -5,7 +5,6 @@ import 'package:flutter/material.dart';
 import '../style/colors.dart';
 import '../widgets/background.dart';
 import '../widgets/navigation/bottom_navigation.dart';
-import 'new_list_screen.dart';
 
 class AllBooksScreen extends StatelessWidget {
   const AllBooksScreen({super.key});
